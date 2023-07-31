@@ -1,2 +1,1 @@
-# mochilaDeViagem
-Estudo javascript Alura mochila de viagem
+# alura-armazenando-na-web
